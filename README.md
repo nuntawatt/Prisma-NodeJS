@@ -11,9 +11,10 @@ PORT=8000
 ---
 
 ## package.json
+- "scripts"
+
 ```bash
-"scripts"
-- เพิ่ม
+
 "prisma:migrate": "prisma migrate dev",
 "prisma:generate": "prisma generate"
 ```
