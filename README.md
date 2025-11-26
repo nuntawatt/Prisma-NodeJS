@@ -28,7 +28,7 @@ npx prisma migrate dev --name init_user
 ## Update Table
 - กรณีอัพเดท หรือเพิ่มTable
 ```bash
-ืnpm run prisma:migrate
+npm run prisma:migrate
 ```
 ---
 
