@@ -1,6 +1,6 @@
 # Node.js API with Prisma v7 + PostgreSQL
 
-โปรเจกต์นี้เป็น REST API พื้นฐานที่สร้างด้วย **Node.js**, **Express**, และ **Prisma ORM v7** โดยเก็บข้อมูลลงฐานข้อมูล **PostgreSQL** 
+REST API พื้นฐานที่สร้างด้วย **Node.js**, **Express**, และ **Prisma ORM v7** โดยเก็บข้อมูลลงฐานข้อมูล **PostgreSQL** 
 
 ---
 ## Set env
